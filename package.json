@@ -24,5 +24,6 @@
 	"homepage": "https://github.com/ctx-core/ctx-core#readme",
 	"publishConfig": {
 		"access": "public"
-	}
+	},
+	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93"
 }

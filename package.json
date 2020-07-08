@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pipe",
-	"version": "1.2.10",
+	"version": "1.2.11",
 	"description": "ctx-core pipe",
 	"main": "index.js",
 	"module": "index.js",

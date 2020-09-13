@@ -6,7 +6,7 @@
 	"module": "./index.js",
 	"types": "./index.ts",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -25,5 +25,5 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"gitHead": "a27f6eb6ae52f827fc233aaf8726233ccdcb3212"
+	"gitHead": "8b296dfb31f719d27b0639b0c4e7c9dd86c6f023"
 }

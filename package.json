@@ -2,26 +2,26 @@
 	"name": "@ctx-core/pipe",
 	"version": "1.2.19",
 	"description": "ctx-core pipe",
+	"keywords": [
+		"ctx-core",
+		"pipe"
+	],
+	"homepage": "https://github.com/ctx-core/pipe#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/pipe/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/pipe/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
 	"scripts": {
 		"exec": "$@"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/pipe/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"pipe"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/pipe/issues"
-	},
-	"homepage": "https://github.com/ctx-core/pipe#readme",
 	"publishConfig": {
 		"access": "public"
 	},

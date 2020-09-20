@@ -1,29 +1,29 @@
 {
-  "name": "@ctx-core/pipe",
-  "version": "2.0.0",
-  "description": "ctx-core pipe",
-  "keywords": [
-    "ctx-core",
-    "pipe"
-  ],
-  "homepage": "https://github.com/ctx-core/pipe#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/pipe/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/pipe/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "exec": "$@"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "8b296dfb31f719d27b0639b0c4e7c9dd86c6f023"
+	"name": "@ctx-core/pipe",
+	"version": "2.0.0",
+	"description": "ctx-core pipe",
+	"keywords": [
+		"ctx-core",
+		"pipe"
+	],
+	"homepage": "https://github.com/ctx-core/pipe#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/pipe/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/pipe/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"exec": "$@",
+		"build": "npm run compile"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }

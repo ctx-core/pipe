@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 2.0.5
+
+### Patch Changes
+
+- - .rush
+
 ## 2.0.4
 
 ### Patch Changes

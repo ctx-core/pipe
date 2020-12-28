@@ -1,5 +1,13 @@
 # @ctx-core/pipe
 
+## 2.1.0
+
+### Minor Changes
+
+- \_piped_a1 as \_a1\_\_piped
+- \_is_piped as \_is\_\_piped
+- \_piped_txt as \_txt\_\_piped
+
 ## 2.0.5
 
 ### Patch Changes

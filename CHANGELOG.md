@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.0.0
+
+### Major Changes
+
+- src directory
+
 ## 2.1.0
 
 ### Minor Changes

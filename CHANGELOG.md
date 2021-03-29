@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.0.7
+
+### Patch Changes
+
+- version bump
+
 ## 3.0.6
 
 ### Patch Changes

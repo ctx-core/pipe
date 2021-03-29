@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.0.6
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 3.0.5
 
 ### Patch Changes

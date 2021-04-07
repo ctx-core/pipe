@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.0.8
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+
 ## 3.0.7
 
 ### Patch Changes

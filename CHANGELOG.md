@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 3.0.9
 
 ### Patch Changes

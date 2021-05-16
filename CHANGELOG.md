@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 3.1.1
 
 ### Patch Changes

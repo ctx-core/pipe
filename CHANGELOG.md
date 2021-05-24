@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 3.1.3
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+
 ## 3.1.2
 
 ### Patch Changes

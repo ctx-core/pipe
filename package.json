@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pipe",
-	"version": "3.2.1",
+	"version": "3.3.0",
 	"description": "ctx-core pipe",
 	"keywords": [
 		"ctx-core",
@@ -18,9 +18,11 @@
 	"author": "Brian Takita",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
-	"types": "./types/index.d.ts",
+	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "npm run compile",
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@"
 	},
 	"devDependencies": {

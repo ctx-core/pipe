@@ -1,8 +1,8 @@
-import { _is_piped } from './_is_piped'
-export async function _piped_txt():Promise<string> {
+import { is_piped_ } from './is_piped_'
+export async function piped_txt_():Promise<string> {
 	let piped_file_txt = ''
 	return new Promise(resolve => {
-		if (_is_piped()) {
+		if (is_piped_()) {
 			process.stdin.on('readable', () => {
 				let chunk
 				while ((chunk = process.stdin.read()) !== null) {
@@ -18,5 +18,5 @@ export async function _piped_txt():Promise<string> {
 	})
 }
 export {
-	_piped_txt as _txt__piped
+	piped_txt_ as _txt__piped
 }

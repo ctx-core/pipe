@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 4.0.2
+
+### Patch Changes
+
+- version bump: run build
+
 ## 4.0.1
 
 ### Patch Changes

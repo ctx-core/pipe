@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 5.0.5
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 5.0.4
 
 ### Patch Changes

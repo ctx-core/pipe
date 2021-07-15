@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 5.0.7
 
 ### Patch Changes

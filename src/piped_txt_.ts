@@ -1,6 +1,6 @@
 import { is_piped_ } from './is_piped_'
 export async function piped_txt_():Promise<string> {
-	let piped_file_txt = ''
+	let piped_file_txt = '.js'
 	return new Promise(resolve => {
 		if (is_piped_()) {
 			process.stdin.on('readable', () => {

@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 6.0.6
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.8
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 6.0.7
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 6.0.5
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.11
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+
 ## 6.0.10
 
 ### Patch Changes

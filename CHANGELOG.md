@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.16
+
+### Patch Changes
+
+- compile using swc
+
 ## 6.0.15
 
 ### Patch Changes

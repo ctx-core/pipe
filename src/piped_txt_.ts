@@ -1,4 +1,4 @@
-import { is_piped_ } from './is_piped_'
+import { is_piped_ } from './is_piped_.js'
 export async function piped_txt_():Promise<string> {
 	let piped_file_txt = '.js'
 	return new Promise(resolve => {

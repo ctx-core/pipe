@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.24
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 6.0.23
 
 ### Patch Changes

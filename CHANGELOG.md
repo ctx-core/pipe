@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.25
+
+### Patch Changes
+
+- package.json: - module
+
 ## 6.0.24
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.29
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 6.0.28
 
 ### Patch Changes

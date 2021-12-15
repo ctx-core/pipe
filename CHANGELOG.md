@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.26
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 6.0.25
 
 ### Patch Changes

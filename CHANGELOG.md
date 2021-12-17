@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.31
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 6.0.30
 
 ### Patch Changes

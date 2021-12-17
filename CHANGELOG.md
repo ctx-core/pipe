@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.30
+
+### Patch Changes
+
+- fix: build
+
 ## 6.0.29
 
 ### Patch Changes

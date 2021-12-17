@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pipe",
-	"version": "6.0.32",
+	"version": "6.0.33",
 	"description": "ctx-core pipe",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
+	"types": "./dist/index.d.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"

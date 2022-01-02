@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.34
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 6.0.33
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.36
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+
 ## 6.0.35
 
 ### Patch Changes

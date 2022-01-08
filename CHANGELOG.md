@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.0.37
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 6.0.36
 
 ### Patch Changes

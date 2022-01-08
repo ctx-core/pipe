@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pipe",
-	"version": "6.0.36",
+	"version": "6.0.37",
 	"description": "ctx-core pipe",
 	"keywords": [
 		"ctx-core",
@@ -43,5 +43,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

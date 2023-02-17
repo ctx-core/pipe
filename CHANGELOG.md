@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 6.0.42
 
 ### Patch Changes

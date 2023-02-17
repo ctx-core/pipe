@@ -1,5 +1,5 @@
 import { Socket } from 'net'
-export function is_piped_():boolean {
+export function is_piped_() {
 	return Socket === process.stdin.constructor
 }
 export {

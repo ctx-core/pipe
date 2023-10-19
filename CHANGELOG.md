@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.1.21
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+
 ## 6.1.20
 
 ### Patch Changes

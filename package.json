@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pipe",
-	"version": "6.1.21",
+	"version": "6.2.0",
 	"description": "ctx-core pipe",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,15 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./is_piped_",
+		"./piped_a_",
+		"./piped_txt_"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {

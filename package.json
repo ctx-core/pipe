@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pipe",
-	"version": "6.2.1",
+	"version": "6.2.2",
 	"description": "ctx-core pipe",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./is_piped_",
 		"./piped_a_",
 		"./piped_txt_"

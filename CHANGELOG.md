@@ -1,5 +1,11 @@
 # @ctx-core/pipe
 
+## 6.2.11
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 6.2.10
 
 ### Patch Changes
